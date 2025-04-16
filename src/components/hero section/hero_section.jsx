@@ -25,7 +25,7 @@ const HomeSection = () => {
         <div className="right-section">
           <Navbar />
           <div className="profile-image-container">
-            <img src="/public/assets/portfolio_logo-removebg-preview.png" alt="Profile" className="profile-image" />
+            <img src="/assets/portfolio_logo-removebg-preview.png" alt="Profile" className="profile-image" />
           </div>
         </div>
       </div>
