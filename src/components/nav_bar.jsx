@@ -34,10 +34,9 @@ const Navbar = () => {
         )}
 
         <ul className={`nav-links ${isMobile ? (isMenuOpen ? 'active' : '') : ''}`}>
-          <li><a href="about" onClick={() => setIsMenuOpen(false)}>About me</a></li>
-          <li><a href="skills" onClick={() => setIsMenuOpen(false)}>Skills</a></li>
-          <li><a href="projects" onClick={() => setIsMenuOpen(false)}>Projects</a></li>
-          <li className="contact-button"><a href="#contact" onClick={() => setIsMenuOpen(false)}>CONTACT ME</a></li>
+          <li><a href="#about" onClick={() => setIsMenuOpen(false)}>About me</a></li>
+          <li><a href="#skills" onClick={() => setIsMenuOpen(false)}>Skills</a></li>
+          <li><a href="#projects" onClick={() => setIsMenuOpen(false)}>Projects</a></li>
         </ul>
       </div>
     </nav>

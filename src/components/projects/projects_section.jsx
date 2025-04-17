@@ -6,31 +6,31 @@ const ProjectsSection = () => {
       title: "Plants Management System",
       description: "A project where we manage the work of a planting association, includes a plants and projects database. Mainly developped with react framework.",
       image: "./src/assets/login-bg-image.jpg",
-      codeLink: "https://github.com/yourusername/project1"
+      codeLink: "https://github.com/mooniirrr/green-algeria"
     },
     {
       title: "KEROSTI",
       description: "Kerosti is a web application for cars related  operations: compare between cars in our DB, filter them and 'SELEKNI', a system that suggests solutions to your car problems, hopefully in the future AI will be integrated to this part. Developped with HTML, CSS and JS. PHP for the backend",
       image: "./src/assets/Kerosti_LOGO.png",
-      codeLink: "https://github.com/yourusername/project2"
+      codeLink: "https://github.com/mooniirrr/kerosti"
     },
     {
       title: "RateIt",
       description: "RateIt is a mobile application for users to rate and post their own things/ ideas.. to be rated. Many rooms exist for different topics. Developped mainly with DART.",
       image: "./src/assets/logo-horizental-removebg-preview.png",
-      codeLink: "https://github.com/yourusername/project3"
+      codeLink: "https://github.com/mooniirrr/rate-it"
     },
     {
-      title: "Transportation Logistics Management System",
+      title: "Supply Chain and Logistics Management System",
       description: "Intro to AI project, where we applied search algorithms to find the best path for trucks to take when  going from pruducing cities to consuming ones. Has a web interface visualizing the maps.",
-      image: "/api/placeholder/350/200",
-      codeLink: "https://github.com/yourusername/project4"
+      image: "/assets/Transportation-Management-System-Development-A-Detailed-Analysis-01-scaled.webp",
+      codeLink: "https://github.com/mooniirrr/supply-chain-and-logistics"
     },
     {
       title: "Analyzing data about Thyroid cancer ",
       description: "Data mining projects where we worked on analyzing Thyroid Cancer data using data mining techiques such us clustering and classification using one class SVM. PYTHON was the mainly used language",
-      image: "/api/placeholder/350/200",
-      codeLink: "https://github.com/yourusername/project6"
+      image: "/assets/tcd.jpg",
+      codeLink: "https://github.com/mooniirrr/analyzing-thyroid-cancer-data"
     }
   ];
 

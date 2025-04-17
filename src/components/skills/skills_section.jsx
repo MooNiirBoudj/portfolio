@@ -27,7 +27,7 @@ const SkillsPage = () => {
         { name: "Arabic", icon: <Globe size={30} color="#006C35" /> },
         { name: "English", icon: <Globe size={30} color="#012169" /> },
         { name: "French", icon: <Globe size={30} color="#002654" /> },
-        { name: "Kabyle", icon: <HeartHandshake size={30} color="#007ACC" /> }
+        { name: "Kabyle", icon: <Globe size={30} color="#007ACC" /> }
       ]
     }
   ];

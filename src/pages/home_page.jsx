@@ -8,6 +8,7 @@ import ProjectsSection from "../components/projects/projects_section";
 const Everything = () => {
   return (
     <div>
+      
   <HomeSection/>
   <AboutMe/>
   <SkillsSection/>
