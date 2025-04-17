@@ -9,7 +9,7 @@ const HomeSection = () => {
       <div className="portfolio-container">
         <div className="left-section">
           <div className="logo-container">
-            <img src="/src/assets/portfolio_logo-removebg-preview.png" alt="Logo" className="logo" />
+            <img src="/assets/portfolio_logo-removebg-preview.png" alt="Logo" className="logo" />
           </div>
           <div className="intro-content">
             <p className="greeting">Hey there, I am</p>

@@ -5,19 +5,19 @@ const ProjectsSection = () => {
     {
       title: "Plants Management System",
       description: "A project where we manage the work of a planting association, includes a plants and projects database. Mainly developped with react framework.",
-      image: "./src/assets/login-bg-image.jpg",
+      image: "/assets/login-bg-image.jpg",
       codeLink: "https://github.com/mooniirrr/green-algeria"
     },
     {
       title: "KEROSTI",
       description: "Kerosti is a web application for cars related  operations: compare between cars in our DB, filter them and 'SELEKNI', a system that suggests solutions to your car problems, hopefully in the future AI will be integrated to this part. Developped with HTML, CSS and JS. PHP for the backend",
-      image: "./src/assets/Kerosti_LOGO.png",
+      image: "/assets/Kerosti_LOGO.png",
       codeLink: "https://github.com/mooniirrr/kerosti"
     },
     {
       title: "RateIt",
       description: "RateIt is a mobile application for users to rate and post their own things/ ideas.. to be rated. Many rooms exist for different topics. Developped mainly with DART.",
-      image: "./src/assets/logo-horizental-removebg-preview.png",
+      image: "/assets/logo-horizental-removebg-preview.png",
       codeLink: "https://github.com/mooniirrr/rate-it"
     },
     {
