@@ -4,7 +4,7 @@ import './about_section.css';
 const AboutMe = () => {
   const handleDownloadCV = () => {
 
-    const cvUrl = "/other documents/Boudjelal_Mounir_CV.pdf";
+    const cvUrl = "/other documents/CV_Boudjelal_Mounir.pdf";
     
     // Create an anchor element
     const link = document.createElement('a');
